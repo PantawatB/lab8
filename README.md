@@ -1,2 +1,2 @@
-# NAME:Pantawat Boonchaloey
-# STUDENT ID:650612093
+# NAME: Pantawat Boonchaloey
+# STUDENT ID: 650612093
