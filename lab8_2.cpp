@@ -28,4 +28,5 @@ int main(){
     getline(cin,ans);
     cout << "Fahsai: 555+ see you "<< day <<". Bye Bye \\(^ ^)/";
     return 0;
+    
 }
